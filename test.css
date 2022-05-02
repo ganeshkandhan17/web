@@ -1,0 +1,31 @@
+.img1{
+    height: 40px;
+    width: 60px;
+}
+body{
+    background-image: url("bk.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 30px;
+}
+h2{
+    color: white;
+}
+.imgmem{
+    border-radius: 30px;
+    height: 300px;
+    width: 300px;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+li{
+    color: white;
+}
+summary{
+    color: white;
+}
+
